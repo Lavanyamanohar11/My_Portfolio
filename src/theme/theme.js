@@ -136,7 +136,7 @@ export const blueThemeDark = {
     expimg: expBlue,
     contactsimg: contactsBlue
 }
-
+//  #f03939  820000 #850E35
 export const redThemeLight = {
     type: 'light',
     primary: '#f03939',
@@ -331,9 +331,31 @@ export const yellowThemeLight = {
     contactsimg: contactsYellow
 }
 
+// export const yellowThemeDark = {
+//     type: 'dark',
+//     primary: '#FDF5CA',
+//     primary400: '#e8b44c',
+//     primary600: '#eeac2a',
+//     primary80: '#E9AD35cc',
+//     primary50: '#E9AD3580',
+//     primary30: '#E9AD354d',
+//     secondary: '#212121',
+//     secondary70: '#212121b3',
+//     secondary50: '#21212180',
+//     tertiary: '#eaeaea',
+//     tertiary80: '#eaeaeacc',
+//     tertiary70: '#eaeaeab3',
+//     tertiary50: '#eaeaea80',
+//     aboutimg1: yellowThemeboy,
+//     aboutimg2: yellowThemegirl,
+//     eduimg: eduYellow,
+//     expimg: expYellow,
+//     contactsimg: contactsYellow
+// }
+
 export const yellowThemeDark = {
     type: 'dark',
-    primary: '#FDF5CA',
+    primary: '#E9AD35',
     primary400: '#e8b44c',
     primary600: '#eeac2a',
     primary80: '#E9AD35cc',
@@ -353,3 +375,24 @@ export const yellowThemeDark = {
     contactsimg: contactsYellow
 }
 
+// export const yellowThemeDark = {
+//     type: 'dark',
+//     primary: '#A459D1',
+//     primary400: '#e8b44c',
+//     primary600: '#eeac2a',
+//     primary80: '#E9AD35cc',
+//     primary50: '#E9AD3580',
+//     primary30: '#E9AD354d',
+//     secondary: '#212121',
+//     secondary70: '#212121b3',
+//     secondary50: '#21212180',
+//     tertiary: '#eaeaea',
+//     tertiary80: '#eaeaeacc',
+//     tertiary70: '#eaeaeab3',
+//     tertiary50: '#eaeaea80',
+//     aboutimg1: yellowThemeboy,
+//     aboutimg2: yellowThemegirl,
+//     eduimg: eduYellow,
+//     expimg: expYellow,
+//     contactsimg: contactsYellow
+// }

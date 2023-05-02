@@ -2,22 +2,23 @@ export const experienceData = [
     {
         id: 1,
         company: 'Fidelity Investments',
-        jobtitle: 'Software Developer Intern',
-        startYear: 'May 2021',
-        endYear: 'Jul 2021'
+        jobtitle: 'Associate Software Engineer',
+        startYear: 'Aug 2022',
+        endYear: 'Present'
     },
     {
         id: 2,
-        company: 'Thewav.co',
-        jobtitle: 'Frontend Developer Intern',
-        startYear: 'Mar 2020',
-        endYear: 'Apr 2020'
+        company: 'Fidelity Investments',
+        jobtitle: 'Software Developer Intern',
+        startYear: 'Jan 2022',
+        endYear: 'Jun 2022'
     },
     {
         id: 3,
-        company: 'Tabdeel Studios',
+        company: 'Thewav.co',
         jobtitle: 'Web Developer Intern',
-        startYear: 'Dec 2019',
-        endYear: 'Dec 2019'
+        startYear: 'Mar 2020',
+        endYear: 'Apr 2020'
     },
+
 ]

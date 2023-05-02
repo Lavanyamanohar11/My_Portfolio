@@ -199,7 +199,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#about'
+                                to='/portfolio/#about'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -215,7 +215,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#resume'
+                                to='/portfolio/#resume'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -233,7 +233,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#experience'
+                                to='/portfolio/#experience'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -251,7 +251,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#projects'
+                                to='/portfolio/#projects'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -269,7 +269,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#contacts'
+                                to='/portfolio/#contacts'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}

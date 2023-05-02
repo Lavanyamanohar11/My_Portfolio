@@ -1,6 +1,7 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "I am Lavanya, a final year student pursuing B-Tech in Computer Science and Engineering from SASTRA University, Thanjavur.",
-    description2: "I'm passionate about web development, Designing, and programming. Being a self-taught developer, I love exploring new technologies. As an active member of ACE (Association of Computer Engineers), I've conducted various tech workshops and events. In my leisure time, I like to grab a coffee and do digital art!",
+    description1: "I am Lavanya, Associate Software Engineer @ Fidelity Investments",
+    description2: "A tech fanatic with a serious passion for web development and programming. Whether I'm working on large codebases or collaborating with my team to solve complex problems, I thrive under pressure and love exploring new technologies.",
+    description3:" I'm eager to dive into the business domain and understand the needs of our customers. In my free time, I enjoy creating digital art and sipping tea. Let's team up and make magic happen in the realm of technology!",
     image: 2
 }
